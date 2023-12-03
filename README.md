@@ -1,4 +1,4 @@
-# Content Based Movie Recommendation Engine 
+# Content Based Movie Recommendation Engine [NLP+KNN]
 
 Below are the instructions to run the code.
 
